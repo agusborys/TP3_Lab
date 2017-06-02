@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1496440762 source:c:\users\agus\documents\tecnicatura en  programacion\tps lab entrega\tp3_lab\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1496440822 source:c:\users\agus\documents\tecnicatura en  programacion\tps lab entrega\tp3_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1496439915 c:\users\agus\documents\tecnicatura en  programacion\tps lab entrega\tp3_lab\funciones.h
+
+1496275758 source:g:\tecnicatura en  programacion\tps lab entrega\tp3_lab\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496274636 g:\tecnicatura en  programacion\tps lab entrega\tp3_lab\funciones.h
+
+1496275758 source:g:\tecnicatura en  programacion\tps lab entrega\tp3_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496275758 source:f:\tecnicatura en  programacion\tps lab entrega\tp3_lab\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496292854 f:\tecnicatura en  programacion\tps lab entrega\tp3_lab\funciones.h
+
+1496275758 source:f:\tecnicatura en  programacion\tps lab entrega\tp3_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496411878 source:e:\tecnicatura en  programacion\tps lab entrega\tp3_lab\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1496384486 e:\tecnicatura en  programacion\tps lab entrega\tp3_lab\funciones.h
+
+1496412018 source:e:\tecnicatura en  programacion\tps lab entrega\tp3_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
